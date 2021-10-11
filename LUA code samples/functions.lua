@@ -27,6 +27,6 @@ function test()
         end)
     }
 
-    -- credit for this goes to stackoverflow in questions "function callin within lua"
+    -- credit for this goes to stackoverflow in questions "function calling within lua"
     
     
